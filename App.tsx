@@ -9,7 +9,7 @@ import { AppState, ValentineData } from "./types";
 // ==================================================================================
 const GIFT_DATA: ValentineData = {
   // 1. Her Name (Replace this!)
-  recipientName: "Cutie pie",
+  recipientName: "Dalisha Mrinali Seevlall",
 
   // 2. Your Name (Replace this!)
   senderName: "Miten",
